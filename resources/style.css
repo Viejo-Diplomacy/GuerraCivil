@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+.variantGuerraCivil .country0 { color: #CE7800 ! important; } /* Global  	*/
+.variantGuerraCivil .country1 { color: #de1e11 ! important; } /* Republica */
+.variantGuerraCivil .country2 { color: #a01727 ! important; } /* Popular 	*/
+.variantGuerraCivil .country3 { color: #d84e5e ! important; } /* Milicias 	*/
+.variantGuerraCivil .country4 { color: #a40c4d ! important; } /* Brigadas 	*/
+.variantGuerraCivil .country5 { color: #0066cc ! important; } /* Nacional 	*/
+.variantGuerraCivil .country6 { color: #01aae8 ! important; } /* Sublevado	*/
+.variantGuerraCivil .country7 { color: #00c3bc ! important; } /* Africano 	*/
+.variantGuerraCivil .country8 { color: #4a659a ! important; } /* Falange  	*/
+
+
+.variantGuerraCivil .occupationBar1 { background-color: #de1e11; } /* Republica*/
+.variantGuerraCivil .occupationBar2 { background-color: #de1e11; } /* Popular  */
+.variantGuerraCivil .occupationBar3 { background-color: #de1e11; } /* Milicias */
+.variantGuerraCivil .occupationBar4 { background-color: #de1e11; } /* Brigadas */
+.variantGuerraCivil .occupationBar5 { background-color: #0066cc; } /* Nacional */
+.variantGuerraCivil .occupationBar6 { background-color: #0066cc; } /* Sublevado*/
+.variantGuerraCivil .occupationBar7 { background-color: #0066cc; } /* Africano */
+.variantGuerraCivil .occupationBar8 { background-color: #0066cc; } /* Falange	 */
