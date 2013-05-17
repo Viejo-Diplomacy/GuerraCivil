@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
 	Copyright (C) 2013 Diplomacy en Espa&ntilde;ol (www.webdiplo.com)
 
@@ -35,7 +35,7 @@ class GuerraCivilVariant extends WDVariant {
 	public $description='Una variante ambientada en la Guerra Civil Espa&ntilde;ola, para ocho jugadores divididos en dos bandos.';
 	public $author     ='Diplomacy en Espa&ntilde;ol';
 	public $adapter    ='(Ader, JuankyDelaPaz, MAK, Neichof, Ovinomanc3r, Viejo)';
-	public $version    ='0.5.2';
+	public $version    ='0.5.3';
 	public $homepage   = 'http://www.webdiplo.com/foro/Thread-Proyecto-variante-Guerra-Civil';
 	public $disabled   =true;		
 
